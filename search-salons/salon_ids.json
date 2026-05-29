@@ -1,0 +1,494 @@
+{
+  "srodmiescie_places": [
+    {
+      "name": "places/ChIJ52fN_TbNHkcR3MmWT5Goz7o",
+      "id": "ChIJ52fN_TbNHkcR3MmWT5Goz7o"
+    },
+    {
+      "name": "places/ChIJk6cCiPDNHkcR8kP52-3qaU4",
+      "id": "ChIJk6cCiPDNHkcR8kP52-3qaU4"
+    },
+    {
+      "name": "places/ChIJJyLvRozMHkcRdbX5ZT_lMpU",
+      "id": "ChIJJyLvRozMHkcRdbX5ZT_lMpU"
+    },
+    {
+      "name": "places/ChIJ5Q2L7fLMHkcR4AMpYiBrdMY",
+      "id": "ChIJ5Q2L7fLMHkcR4AMpYiBrdMY"
+    },
+    {
+      "name": "places/ChIJpTQkeh_NHkcRTCAPm-vg5Dw",
+      "id": "ChIJpTQkeh_NHkcRTCAPm-vg5Dw"
+    },
+    {
+      "name": "places/ChIJnc1HX43MHkcRroWmjRaXZRQ",
+      "id": "ChIJnc1HX43MHkcRroWmjRaXZRQ"
+    },
+    {
+      "name": "places/ChIJSdG0GdDNHkcRwKZlc09_TBE",
+      "id": "ChIJSdG0GdDNHkcRwKZlc09_TBE"
+    },
+    {
+      "name": "places/ChIJkzuwLK7NHkcRGZ7wTkPMOVY",
+      "id": "ChIJkzuwLK7NHkcRGZ7wTkPMOVY"
+    },
+    {
+      "name": "places/ChIJM5evRIPNHkcRpetFBeCqvm0",
+      "id": "ChIJM5evRIPNHkcRpetFBeCqvm0"
+    },
+    {
+      "name": "places/ChIJTdDhAG_NHkcRqpeGhaZlCzQ",
+      "id": "ChIJTdDhAG_NHkcRqpeGhaZlCzQ"
+    },
+    {
+      "name": "places/ChIJd8r0lUzNHkcRHnnO5RVrXtE",
+      "id": "ChIJd8r0lUzNHkcRHnnO5RVrXtE"
+    },
+    {
+      "name": "places/ChIJl1ANi0nNHkcRIFiJD-GgGZM",
+      "id": "ChIJl1ANi0nNHkcRIFiJD-GgGZM"
+    },
+    {
+      "name": "places/ChIJK1YUVEvNHkcRESbxNBoom4E",
+      "id": "ChIJK1YUVEvNHkcRESbxNBoom4E"
+    },
+    {
+      "name": "places/ChIJ_Yo1YUbNHkcRIaVyJJSgcMs",
+      "id": "ChIJ_Yo1YUbNHkcRIaVyJJSgcMs"
+    },
+    {
+      "name": "places/ChIJD6qLbJbNHkcR1tmlzX_Hdg0",
+      "id": "ChIJD6qLbJbNHkcR1tmlzX_Hdg0"
+    },
+    {
+      "name": "places/ChIJuaeN5KTNHkcRjLXp4N4Q0KM",
+      "id": "ChIJuaeN5KTNHkcRjLXp4N4Q0KM"
+    },
+    {
+      "name": "places/ChIJizcitjXNHkcRIeRIT7RGiF8",
+      "id": "ChIJizcitjXNHkcRIeRIT7RGiF8"
+    },
+    {
+      "name": "places/ChIJs-plKE7NHkcRUEp9udvxQJ0",
+      "id": "ChIJs-plKE7NHkcRUEp9udvxQJ0"
+    },
+    {
+      "name": "places/ChIJY9DznQ_NHkcRAEuorTbhgdw",
+      "id": "ChIJY9DznQ_NHkcRAEuorTbhgdw"
+    },
+    {
+      "name": "places/ChIJr7_c4OXNHkcRnzT3kMLyAFU",
+      "id": "ChIJr7_c4OXNHkcRnzT3kMLyAFU"
+    }
+  ],
+  "mokotow_places": [
+    {
+      "name": "places/ChIJVaNe3ngzGUcR71u5LgCVwOY",
+      "id": "ChIJVaNe3ngzGUcR71u5LgCVwOY"
+    },
+    {
+      "name": "places/ChIJs1lb_AEzGUcRUHVhv1oQlEQ",
+      "id": "ChIJs1lb_AEzGUcRUHVhv1oQlEQ"
+    },
+    {
+      "name": "places/ChIJOeQdJ6ozGUcR9vOUDig0F30",
+      "id": "ChIJOeQdJ6ozGUcR9vOUDig0F30"
+    },
+    {
+      "name": "places/ChIJAeBLjUwzGUcRlU66qE9SHiA",
+      "id": "ChIJAeBLjUwzGUcRlU66qE9SHiA"
+    },
+    {
+      "name": "places/ChIJETK3RWQzGUcRtHRo_nerN3Q",
+      "id": "ChIJETK3RWQzGUcRtHRo_nerN3Q"
+    },
+    {
+      "name": "places/ChIJS6ZT_ekzGUcRyfYIGQ80xVM",
+      "id": "ChIJS6ZT_ekzGUcRyfYIGQ80xVM"
+    },
+    {
+      "name": "places/ChIJoyrDyWbMHkcRnzoC6UkdVts",
+      "id": "ChIJoyrDyWbMHkcRnzoC6UkdVts"
+    },
+    {
+      "name": "places/ChIJNWeIbtjNHkcR1K_xYlCXz3g",
+      "id": "ChIJNWeIbtjNHkcR1K_xYlCXz3g"
+    },
+    {
+      "name": "places/ChIJFQajy2UzGUcRUT6ZM6UJqIA",
+      "id": "ChIJFQajy2UzGUcRUT6ZM6UJqIA"
+    },
+    {
+      "name": "places/ChIJoSZJneEzGUcR7fQ46E9tBU8",
+      "id": "ChIJoSZJneEzGUcR7fQ46E9tBU8"
+    },
+    {
+      "name": "places/ChIJO3TQEO0zGUcRVvYnp9JABxQ",
+      "id": "ChIJO3TQEO0zGUcRVvYnp9JABxQ"
+    },
+    {
+      "name": "places/ChIJUZQ9EhrNHkcRVgN4v1S6VHw",
+      "id": "ChIJUZQ9EhrNHkcRVgN4v1S6VHw"
+    },
+    {
+      "name": "places/ChIJ04cAcP4zGUcR1D635UkfQt0",
+      "id": "ChIJ04cAcP4zGUcR1D635UkfQt0"
+    },
+    {
+      "name": "places/ChIJEf-gk6szGUcR3LoW7TxFJeM",
+      "id": "ChIJEf-gk6szGUcR3LoW7TxFJeM"
+    },
+    {
+      "name": "places/ChIJz-xaiNoyGUcR2UGo_FspyDg",
+      "id": "ChIJz-xaiNoyGUcR2UGo_FspyDg"
+    },
+    {
+      "name": "places/ChIJRzTUoNXMHkcRwij7LVgOCmw",
+      "id": "ChIJRzTUoNXMHkcRwij7LVgOCmw"
+    },
+    {
+      "name": "places/ChIJQxtZpzAzGUcRIni5CoK3ue4",
+      "id": "ChIJQxtZpzAzGUcRIni5CoK3ue4"
+    },
+    {
+      "name": "places/ChIJGea60NozGUcRoVYHHEM5zy4",
+      "id": "ChIJGea60NozGUcRoVYHHEM5zy4"
+    },
+    {
+      "name": "places/ChIJjUIekE4zGUcRYlEHq88RUw0",
+      "id": "ChIJjUIekE4zGUcRYlEHq88RUw0"
+    },
+    {
+      "name": "places/ChIJiZ65FHYzGUcRsO2lCSPt7KQ",
+      "id": "ChIJiZ65FHYzGUcRsO2lCSPt7KQ"
+    }
+  ],
+  "ochota_places": [
+    {
+      "name": "places/ChIJNymsd2DNHkcRdQozloxl9x4",
+      "id": "ChIJNymsd2DNHkcRdQozloxl9x4"
+    },
+    {
+      "name": "places/ChIJiYRN4ZozGUcR9N2mjoxxCcc",
+      "id": "ChIJiYRN4ZozGUcR9N2mjoxxCcc"
+    },
+    {
+      "name": "places/ChIJsYF-j1zNHkcRIjjvIaHcRjE",
+      "id": "ChIJsYF-j1zNHkcRIjjvIaHcRjE"
+    },
+    {
+      "name": "places/ChIJLUSTf3szGUcRZ2TWg4Ymrec",
+      "id": "ChIJLUSTf3szGUcRZ2TWg4Ymrec"
+    },
+    {
+      "name": "places/ChIJEV5r3EYzGUcRUpb2eqvJ7oA",
+      "id": "ChIJEV5r3EYzGUcRUpb2eqvJ7oA"
+    },
+    {
+      "name": "places/ChIJ_Tjrey8zGUcRI6w01uKPU9Q",
+      "id": "ChIJ_Tjrey8zGUcRI6w01uKPU9Q"
+    },
+    {
+      "name": "places/ChIJ_____1bLHkcRKtWZa55Dzrc",
+      "id": "ChIJ_____1bLHkcRKtWZa55Dzrc"
+    },
+    {
+      "name": "places/ChIJaeTd3A3NHkcRllvduVWLvtQ",
+      "id": "ChIJaeTd3A3NHkcRllvduVWLvtQ"
+    },
+    {
+      "name": "places/ChIJz_qcSLXMHkcRZEjhC0mGIqw",
+      "id": "ChIJz_qcSLXMHkcRZEjhC0mGIqw"
+    },
+    {
+      "name": "places/ChIJ70eI3h4zGUcRjYju97R1-qo",
+      "id": "ChIJ70eI3h4zGUcRjYju97R1-qo"
+    },
+    {
+      "name": "places/ChIJMRR5Ia0zGUcRHFP9R4ite4k",
+      "id": "ChIJMRR5Ia0zGUcRHFP9R4ite4k"
+    },
+    {
+      "name": "places/ChIJuz3eiK_MHkcRFB5uth6q6Yk",
+      "id": "ChIJuz3eiK_MHkcRFB5uth6q6Yk"
+    },
+    {
+      "name": "places/ChIJ98d3LBTNHkcRL3Bn-duRAJs",
+      "id": "ChIJ98d3LBTNHkcRL3Bn-duRAJs"
+    },
+    {
+      "name": "places/ChIJOeCiO5bMHkcRn-1XKOQt1Ow",
+      "id": "ChIJOeCiO5bMHkcRn-1XKOQt1Ow"
+    },
+    {
+      "name": "places/ChIJBfc32zvNHkcRzAI8HBHe_78",
+      "id": "ChIJBfc32zvNHkcRzAI8HBHe_78"
+    },
+    {
+      "name": "places/ChIJh8M9hJczGUcRq2N7CcKV0EE",
+      "id": "ChIJh8M9hJczGUcRq2N7CcKV0EE"
+    },
+    {
+      "name": "places/ChIJVf-ZSIPNHkcRmn_LDRxajpI",
+      "id": "ChIJVf-ZSIPNHkcRmn_LDRxajpI"
+    },
+    {
+      "name": "places/ChIJXYCVh3vNHkcR4Y3k7j400iU",
+      "id": "ChIJXYCVh3vNHkcR4Y3k7j400iU"
+    },
+    {
+      "name": "places/ChIJ0dakBanMHkcRw5QDMDchRJY",
+      "id": "ChIJ0dakBanMHkcRw5QDMDchRJY"
+    },
+    {
+      "name": "places/ChIJu4hGxJfMHkcRfSmpaAc6Avg",
+      "id": "ChIJu4hGxJfMHkcRfSmpaAc6Avg"
+    }
+  ],
+  "wola_places": [
+    {
+      "name": "places/ChIJp1UiHhPLHkcRNwCf9m7XLjc",
+      "id": "ChIJp1UiHhPLHkcRNwCf9m7XLjc"
+    },
+    {
+      "name": "places/ChIJbYX4mtXLHkcRpPJ_Pxd1L-Q",
+      "id": "ChIJbYX4mtXLHkcRpPJ_Pxd1L-Q"
+    },
+    {
+      "name": "places/ChIJKYORGkfLHkcR4n8qeiRVyHc",
+      "id": "ChIJKYORGkfLHkcR4n8qeiRVyHc"
+    },
+    {
+      "name": "places/ChIJX1GktZXLHkcR2S5umxD4eVY",
+      "id": "ChIJX1GktZXLHkcR2S5umxD4eVY"
+    },
+    {
+      "name": "places/ChIJX1Rm42nXa2sRHj8zMXRzjeo",
+      "id": "ChIJX1Rm42nXa2sRHj8zMXRzjeo"
+    },
+    {
+      "name": "places/ChIJf_ooyV3NHkcR9fuwqzebfp0",
+      "id": "ChIJf_ooyV3NHkcR9fuwqzebfp0"
+    },
+    {
+      "name": "places/ChIJzYjdJq7LHkcRQ3ak6SRusao",
+      "id": "ChIJzYjdJq7LHkcRQ3ak6SRusao"
+    },
+    {
+      "name": "places/ChIJgZQEwRHLHkcRNTsygX6UgLs",
+      "id": "ChIJgZQEwRHLHkcRNTsygX6UgLs"
+    },
+    {
+      "name": "places/ChIJV23YJijLHkcR2lR3wQu3KyQ",
+      "id": "ChIJV23YJijLHkcR2lR3wQu3KyQ"
+    },
+    {
+      "name": "places/ChIJG-cafgDLHkcRT9lnTUnNCl4",
+      "id": "ChIJG-cafgDLHkcRT9lnTUnNCl4"
+    },
+    {
+      "name": "places/ChIJ0xybUWTLHkcRiarEPirhzus",
+      "id": "ChIJ0xybUWTLHkcRiarEPirhzus"
+    },
+    {
+      "name": "places/ChIJodp_kYfLHkcRmsPxX1o3_FM",
+      "id": "ChIJodp_kYfLHkcRmsPxX1o3_FM"
+    },
+    {
+      "name": "places/ChIJ-x5I8kHLHkcRNVsOpgzMuaU",
+      "id": "ChIJ-x5I8kHLHkcRNVsOpgzMuaU"
+    },
+    {
+      "name": "places/ChIJbbghqBrNHkcR6baoTHBE2u4",
+      "id": "ChIJbbghqBrNHkcR6baoTHBE2u4"
+    },
+    {
+      "name": "places/ChIJ2618TczLHkcRCNLcilJ_Yx4",
+      "id": "ChIJ2618TczLHkcRCNLcilJ_Yx4"
+    },
+    {
+      "name": "places/ChIJEaoRRnzLHkcR7fdGTLVjaKo",
+      "id": "ChIJEaoRRnzLHkcR7fdGTLVjaKo"
+    },
+    {
+      "name": "places/ChIJXcmxhnfLHkcRQGUyp8sBifY",
+      "id": "ChIJXcmxhnfLHkcRQGUyp8sBifY"
+    },
+    {
+      "name": "places/ChIJZ1q3EtnKHkcRjjURYMImP4A",
+      "id": "ChIJZ1q3EtnKHkcRjjURYMImP4A"
+    },
+    {
+      "name": "places/ChIJH4_QBADLHkcRIFRAg7E6HVg",
+      "id": "ChIJH4_QBADLHkcRIFRAg7E6HVg"
+    },
+    {
+      "name": "places/ChIJ7QW1uYIWdiQRAA7Dn3aYR4E",
+      "id": "ChIJ7QW1uYIWdiQRAA7Dn3aYR4E"
+    }
+  ],
+  "zoliborz_places": [
+    {
+      "name": "places/ChIJBdaiPJrLHkcRkTO9KBdY4Pc",
+      "id": "ChIJBdaiPJrLHkcRkTO9KBdY4Pc"
+    },
+    {
+      "name": "places/ChIJaQsXpO3LHkcRCdKgf_1dzeQ",
+      "id": "ChIJaQsXpO3LHkcRCdKgf_1dzeQ"
+    },
+    {
+      "name": "places/ChIJVyHu95nLHkcRBcwEzZwinTs",
+      "id": "ChIJVyHu95nLHkcRBcwEzZwinTs"
+    },
+    {
+      "name": "places/ChIJQTD-fQTLHkcRDQX3NT6NdeA",
+      "id": "ChIJQTD-fQTLHkcRDQX3NT6NdeA"
+    },
+    {
+      "name": "places/ChIJmZkEbWnLHkcRZdfaMJPT04Y",
+      "id": "ChIJmZkEbWnLHkcRZdfaMJPT04Y"
+    },
+    {
+      "name": "places/ChIJje5uypfLHkcROplCfLy-E-Q",
+      "id": "ChIJje5uypfLHkcROplCfLy-E-Q"
+    },
+    {
+      "name": "places/ChIJIzWvA5HLHkcRbT5sflDssC0",
+      "id": "ChIJIzWvA5HLHkcRbT5sflDssC0"
+    },
+    {
+      "name": "places/ChIJWeLFmBrLHkcRTFjE_aV1p74",
+      "id": "ChIJWeLFmBrLHkcRTFjE_aV1p74"
+    },
+    {
+      "name": "places/ChIJx1cZaenLHkcRexBspzwtkvM",
+      "id": "ChIJx1cZaenLHkcRexBspzwtkvM"
+    },
+    {
+      "name": "places/ChIJdcAUdH7MHkcR1WoprEAxjac",
+      "id": "ChIJdcAUdH7MHkcR1WoprEAxjac"
+    },
+    {
+      "name": "places/ChIJJ8qiknjLHkcRptjEq5euOPY",
+      "id": "ChIJJ8qiknjLHkcRptjEq5euOPY"
+    },
+    {
+      "name": "places/ChIJM3Ii4-_MHkcRi4XxXrnVSUE",
+      "id": "ChIJM3Ii4-_MHkcRi4XxXrnVSUE"
+    },
+    {
+      "name": "places/ChIJSX8VbMjLHkcRYZjHiXva2xc",
+      "id": "ChIJSX8VbMjLHkcRYZjHiXva2xc"
+    },
+    {
+      "name": "places/ChIJO55TxMPLHkcRBv33bZI9w8I",
+      "id": "ChIJO55TxMPLHkcRBv33bZI9w8I"
+    },
+    {
+      "name": "places/ChIJJw2lvV3LHkcRlLOMquZJWYQ",
+      "id": "ChIJJw2lvV3LHkcRlLOMquZJWYQ"
+    },
+    {
+      "name": "places/ChIJ84xc2JDLHkcRu3aL_C6Dumk",
+      "id": "ChIJ84xc2JDLHkcRu3aL_C6Dumk"
+    },
+    {
+      "name": "places/ChIJATGvDO7LHkcRoX-ixM6Qfig",
+      "id": "ChIJATGvDO7LHkcRoX-ixM6Qfig"
+    },
+    {
+      "name": "places/ChIJ9VARyezLHkcRVXI4twUfFIU",
+      "id": "ChIJ9VARyezLHkcRVXI4twUfFIU"
+    },
+    {
+      "name": "places/ChIJwWiNLaDLHkcRu5vg7ptTfUk",
+      "id": "ChIJwWiNLaDLHkcRu5vg7ptTfUk"
+    },
+    {
+      "name": "places/ChIJmRn-elAm8IsR1wgw2tGeQnc",
+      "id": "ChIJmRn-elAm8IsR1wgw2tGeQnc"
+    }
+  ],
+  "praga_places": [
+    {
+      "name": "places/ChIJk2hQttTNHkcR1YqECd0hpTs",
+      "id": "ChIJk2hQttTNHkcR1YqECd0hpTs"
+    },
+    {
+      "name": "places/ChIJ_yrxIUfMHkcRkxAV-MEZpXU",
+      "id": "ChIJ_yrxIUfMHkcRkxAV-MEZpXU"
+    },
+    {
+      "name": "places/ChIJF9s7XUbMHkcRvEP0tTjaoZ8",
+      "id": "ChIJF9s7XUbMHkcRvEP0tTjaoZ8"
+    },
+    {
+      "name": "places/ChIJ75c0i57NHkcRlxBUxuAvrjA",
+      "id": "ChIJ75c0i57NHkcRlxBUxuAvrjA"
+    },
+    {
+      "name": "places/ChIJ0xM_uQrNHkcRWgoo_pl4NlE",
+      "id": "ChIJ0xM_uQrNHkcRWgoo_pl4NlE"
+    },
+    {
+      "name": "places/ChIJa_lFzTvNHkcRaxEyWs1-s1E",
+      "id": "ChIJa_lFzTvNHkcRaxEyWs1-s1E"
+    },
+    {
+      "name": "places/ChIJY7OwdpHNHkcR-CEDK4bkI4I",
+      "id": "ChIJY7OwdpHNHkcR-CEDK4bkI4I"
+    },
+    {
+      "name": "places/ChIJnx4DwjnNHkcRERl_cccBKb0",
+      "id": "ChIJnx4DwjnNHkcRERl_cccBKb0"
+    },
+    {
+      "name": "places/ChIJZQJh_5jNHkcRyug74Y49aLM",
+      "id": "ChIJZQJh_5jNHkcRyug74Y49aLM"
+    },
+    {
+      "name": "places/ChIJ1y0uT6xGJm4RqL_AalBxjUk",
+      "id": "ChIJ1y0uT6xGJm4RqL_AalBxjUk"
+    },
+    {
+      "name": "places/ChIJmTfR9TbNHkcRTvFoJIe21Jw",
+      "id": "ChIJmTfR9TbNHkcRTvFoJIe21Jw"
+    },
+    {
+      "name": "places/ChIJO0gWhHPNHkcRnlyz50u_LBk",
+      "id": "ChIJO0gWhHPNHkcRnlyz50u_LBk"
+    },
+    {
+      "name": "places/ChIJYwIj5znMHkcRxsjQFu1FTCo",
+      "id": "ChIJYwIj5znMHkcRxsjQFu1FTCo"
+    },
+    {
+      "name": "places/ChIJoakZRBvNHkcRaSgo4WlnLns",
+      "id": "ChIJoakZRBvNHkcRaSgo4WlnLns"
+    },
+    {
+      "name": "places/ChIJoTJ_5r3NHkcRTszWxb8Z26U",
+      "id": "ChIJoTJ_5r3NHkcRTszWxb8Z26U"
+    },
+    {
+      "name": "places/ChIJNdQX6snNHkcRZ8SnEL6Wqmo",
+      "id": "ChIJNdQX6snNHkcRZ8SnEL6Wqmo"
+    },
+    {
+      "name": "places/ChIJk9P5pkHNHkcRmZRQb3-MhAQ",
+      "id": "ChIJk9P5pkHNHkcRmZRQb3-MhAQ"
+    },
+    {
+      "name": "places/ChIJW6YHcf7NHkcR2BegePdmtW0",
+      "id": "ChIJW6YHcf7NHkcR2BegePdmtW0"
+    },
+    {
+      "name": "places/ChIJiU22Nr3NHkcRxFzqw3SiaOM",
+      "id": "ChIJiU22Nr3NHkcRxFzqw3SiaOM"
+    },
+    {
+      "name": "places/ChIJ4674xELNHkcRN3l7PZDZ9b4",
+      "id": "ChIJ4674xELNHkcRN3l7PZDZ9b4"
+    }
+  ]
+}
